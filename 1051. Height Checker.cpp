@@ -1,4 +1,4 @@
-//https://leetcode.com/problems/height-checker/submissions/
+//https://leetcode.com/problems/height-checker/
 
 class Solution {
 public:
